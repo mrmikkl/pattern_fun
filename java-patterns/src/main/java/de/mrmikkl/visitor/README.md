@@ -1,6 +1,6 @@
-= Visitor
+# Visitor
 
-== Description
+## Description
 Good to ensure Open-Close principle.
 Thus the pattern is open for extension and closed for modification.
 

@@ -1,6 +1,6 @@
-= Factory
+# Factory
 
-== Description
+## Description
 Used to encapsulate how objects are created and defined certain
 params without overloading the class constructor too much.
 
